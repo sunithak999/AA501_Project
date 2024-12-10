@@ -1,3 +1,4 @@
+#### Data Collection
 Description below for the data collection based on selected stock symbol. 
 When you run the code, program will ask for stock symbol. Enter for example "goog"
 Next it will ask for what type of data is required. Select any of the choices below. Omce the choice is selected, csv file for each 
@@ -34,4 +35,15 @@ Handles both quarterly and annual earnings, which are stored in the 'quarterlyEa
 
 Choice 10 - Overview
 Fetches the overview data of a company (e.g., name, sector, industry, market cap) under the 'Overview' key. It saves this data into a text file.
+##### Data
+ * All data download are present under ./data folder in csv format
+
+##### Exploratory Analysis
+
+##### SARIMA Model
+
+##### LSTM
+
+####  Presentation Link
+
 
