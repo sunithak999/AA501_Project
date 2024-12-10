@@ -1,4 +1,7 @@
 #### Data Collection
+[Data Collection](https://github.com/sunithak999/AA501_Project/blob/main/AAI_501_stock_predict.ipynb)
+
+
 Description below for the data collection based on selected stock symbol. 
 When you run the code, program will ask for stock symbol. Enter for example "goog"
 Next it will ask for what type of data is required. Select any of the choices below. Omce the choice is selected, csv file for each 
