@@ -42,12 +42,14 @@ Fetches the overview data of a company (e.g., name, sector, industry, market cap
  * All data download are present under ./data folder in csv format
 
 ##### Exploratory Analysis
-
+[EDA ]()
 ##### SARIMA Model
-
+[SARIMA Model](https://github.com/sunithak999/AA501_Project/blob/main/ARIMA_statistical_model.ipynb)
 ##### LSTM
 [LSTM Model](https://github.com/sunithak999/AA501_Project/blob/main/AA501_LSTM.ipynb)
 
 ####  Presentation Link
+[Presentation](https://docs.google.com/presentation/d/1AkN7rcM4naBPQDzdHqPoq4RCTsxtJ0CHYSvEZtRVvms/edit#slide=id.g31ccdd13505_0_0)
+[Video]()
 
 
