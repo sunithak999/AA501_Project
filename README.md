@@ -46,7 +46,7 @@ Fetches the overview data of a company (e.g., name, sector, industry, market cap
 ##### SARIMA Model
 
 ##### LSTM
-[LSTM Model] (https://github.com/sunithak999/AA501_Project/blob/main/AA501_LSTM.ipynb)
+[LSTM Model](https://github.com/sunithak999/AA501_Project/blob/main/AA501_LSTM.ipynb)
 
 ####  Presentation Link
 
